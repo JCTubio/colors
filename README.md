@@ -1,3 +1,12 @@
+# Colors
+
+A React router demo, using hooks and dynamic programming.
+
+## To launch 🚀
+
+Run `yarn` or `npm install` to install the dependencies and then `yarn start` or `npm start` to launch in development mode.
+
+________________
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
